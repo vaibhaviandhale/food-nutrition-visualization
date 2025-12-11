@@ -79,10 +79,10 @@ food-nutrition-visualization/
 
 ## 📸 Dashboard Preview
 
-Download the full dashboard PDF here:
-outputs.pdf
+## 🎥 Demo Video
 
-(You can also add screenshots in a screenshots/ folder if needed.)
+<video src="https://github.com/vaibhaviandhale/food-nutrition-visualization/raw/main/demo.mp4" width="100%" controls>
+</video>
 
 ---
 
