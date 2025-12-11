@@ -1,10 +1,10 @@
-# 🍎⚡NutriScope 360° – Food Nutrition Intelligence Dashboard
-Dark Mode • Streamlit Interactive Edition • Professional Documentation
+# 🍎⚡NutriScope – Food Nutrition Intelligence Dashboard
+Streamlit Interactive Edition • Professional Documentation
 
 ---
 
 ## 🌑Overview
-NutriScope 360° is a modern nutrition analytics dashboard that transforms raw food nutrient data into interactive insights.  
+NutriScope  is a modern nutrition analytics dashboard that transforms raw food nutrient data into interactive insights.  
 Built using Streamlit and optimized for a clean dark-themed interface, it helps users understand macronutrient variations, calorie distribution, and overall nutritional patterns.
 
 This project is suitable for:
