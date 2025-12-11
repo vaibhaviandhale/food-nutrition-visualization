@@ -36,17 +36,18 @@ This project is suitable for:
 - 📄 Dashboard PDF Export (outputs.pdf)
 
 ---
-
 ## 📁 Project Structure
 
+```
 food-nutrition-visualization/
-|
-|-- app.py                   # Streamlit Nutrition Dashboard
-|-- food_nutrition.csv       # Dataset (50 food items)
-|-- requirements.txt         # Required Python libraries
-|-- README.md                # Project documentation
-|
-|-- outputs.pdf              # Dashboard screenshot (exported PDF)
+│
+├── app.py                # Streamlit Nutrition Dashboard
+├── food_nutrition.csv    # Dataset (50 food items)
+├── requirements.txt      # Required Python libraries
+├── README.md             # Project documentation
+├── demo.mp4              # Dashboard demo video
+└── output.pdf            # Dashboard screenshot (exported PDF)
+```
 
 ---
 
