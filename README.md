@@ -81,8 +81,10 @@ food-nutrition-visualization/
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/vaibhaviandhale/food-nutrition-visualization/blob/main/demo.mp4" width="100%" controls>
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/vaibhaviandhale/food-nutrition-visualization/main/demo.mp4" type="video/mp4">
 </video>
+
 
 ---
 
