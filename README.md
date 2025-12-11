@@ -77,16 +77,6 @@ food-nutrition-visualization/
 
 ---
 
-## 📸 Dashboard Preview
-
-## 🎥 Demo Video
-
-[![Demo Video](demo.gif)](https://raw.githubusercontent.com/vaibhaviandhale/food-nutrition-visualization/main/demo.mp4)
-
-
-
----
-
 ## 🔍 Insights Generated
 
 - 🔥 High-calorie foods include almonds, walnuts, bread, and paneer.
