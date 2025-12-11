@@ -77,6 +77,21 @@ food-nutrition-visualization/
    streamlit run app.py
 
 ---
+<br>
+
+<div align="center">
+
+## 🎥 Interactive Demo
+**Watch Health 360° in Action**
+
+![demo](https://github.com/user-attachments/assets/fdb780dc-1f38-4e8c-a567-a4f7ec353ada)
+<br>
+> Unleash the Power: Experience real-time filtering, precision disease mapping, and integrated operational intelligence at your fingertips.
+
+</div>
+
+<br>
+---
 
 ## 🔍 Insights Generated
 
