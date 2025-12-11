@@ -1,5 +1,5 @@
 # 🍎⚡NutriScope 360° – Food Nutrition Intelligence Dashboard  
-Dark Theme • Data Visualization Edition • Professional Documentation  
+Data Visualization Edition • Professional Documentation  
 
 ## 🌑 Overview  
 NutriScope 360° is a modern data visualization project built to analyze the nutritional composition of 50+ food items.  
