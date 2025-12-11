@@ -1,95 +1,114 @@
-🍎 Food Nutrition Visualization
-A Data Visualization Project Using Python, Pandas & Matplotlib
+🍎⚡ NutriScope 360° – Food Nutrition Intelligence Dashboard
+Dark Theme • Data Visualization Edition • Professional Documentation
+🌑 Overview
 
-This project analyzes 50 different food items and visualizes their nutritional composition — including Calories, Protein, Carbohydrates, and Fat.
-The goal is to understand patterns in nutrition data and identify foods that are high/low in specific nutrients.
+NutriScope 360° is a modern data visualization project built to analyze the nutritional composition of 50+ food items.
+Designed with a clean dark-themed analytics layout, it converts raw nutritional data into meaningful visual insights.
 
-📊 Project Features
+Ideal for:
 
-This project includes:
+✔ Students & educators
+✔ Data analysts
+✔ Nutritionists
+✔ Fitness professionals
+✔ Anyone exploring food composition
 
-✔ Line chart — Calories trend
-✔ Bar charts — Top protein & carb foods
-✔ Donut chart — Macronutrient distribution
-✔ Scatter plot — Protein vs Calories (colored by Fat)
-✔ Multi-line comparison — Protein, Carbs & Fat
-✔ Horizontal bar chart — Top fatty foods
-✔ Boxplots — Distribution of all nutrients
+This dashboard helps users understand calories, proteins, carbohydrates, fats, and their relationships across different foods.
 
-All graphs are stored in the outputs/ folder.
+✨ Key Features (Dark Mode Optimized)
+📌 Core Visualizations
 
-📁 Project Structure
+📈 Calories Trend Line
+
+🥩 Top Protein-Rich Foods
+
+🍞 Highest Carbohydrate Foods
+
+🍩 Top Fat-Dense Foods
+
+🍽 Macronutrient Donut Charts
+
+🔥 Protein vs Calories Scatter Plot (Fat-Colored)
+
+📊 Multi-Line Nutrient Comparison
+
+📦 Boxplots for Nutrient Distributions
+
+🧠 Insight Extraction
+
+🔍 Identify high vs low nutrient foods
+
+📏 Compare macronutrient variations
+
+📡 Observe nutrient distribution patterns
+
+🔗 Understand relationships (e.g., Fat ↔ Calories)
+
+🎥 Demo Preview
+
+(Optional GIF or screenshots)
+
+[ NutriScope Dashboard Preview – Coming Soon ]
+
+🧱 Project Structure
 food-nutrition-visualization/
-│
-├── food_nutrition.csv             → Dataset (50 food items)
-├── food_nutrition.py              → Python code for all visualizations
-│
-└── outputs/                       → All generated graph images
-    ├── 01_calories_line.png
-    ├── 02_top20_protein.png
-    ├── 03_top20_carbs.png
-    ├── 04_donut_chosen_food.png
-    ├── 05_scatter_calories_protein.png
-    ├── 06_multiline_first20.png
-    ├── 07_top20_fat.png
-    ├── 08_boxplots.png
+│── food_nutrition.csv
+│── food_nutrition.py
+│── README.md
+│── outputs/
+│     ├── 01_calories_line.png
+│     ├── 02_top20_protein.png
+│     ├── 03_top20_carbs.png
+│     ├── 04_donut_chosen_food.png
+│     ├── 05_scatter_calories_protein.png
+│     ├── 06_multiline_first20.png
+│     ├── 07_top20_fat.png
+│     ├── 08_boxplots.png
 
-🧠 Problem Statement
-
-The goal of this project is to explore nutrition patterns using data visualization techniques and answer questions like:
-
-Which foods are high in calories?
-
-Which foods contain the most protein?
-
-Are calories related to fat content?
-
-How do different foods compare in terms of macronutrients?
-
-🧪 Technologies Used
-Tool / Library	Purpose
+🛠 Tech Stack
+Technology	Purpose
 Python	Main programming language
-Pandas	Data loading & cleaning
-Matplotlib	Graph plotting
+Pandas	Data cleaning & manipulation
+Matplotlib	Graph creation & visualization
 NumPy	Numerical operations
-📈 Example Insights
+⚙️ Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/YOUR_USERNAME/food-nutrition-visualization.git
+cd food-nutrition-visualization
 
-Some findings from the analysis:
-
-High-calorie foods: Walnuts, Almonds, Bread, Paneer
-
-High-protein foods: Chicken, Eggs, Almonds, Fish
-
-High-carb foods: Rice, Bread, Pasta
-
-High-fat foods: Ghee, Walnuts, Coconut, Cheese
-
-Calories show strong correlation with Fat
-
-Visualization helps make these insights clear and easy to understand.
-
-🚀 How to Run This Project
-
-Clone the repository:
-
-git clone https://github.com/vaibhaviandhale/food-nutrition-visualization.git
-
-
-Install dependencies:
-
+2️⃣ Install dependencies
 pip install pandas matplotlib numpy
 
-
-Run the Python script:
-
+3️⃣ Run the script
 python food_nutrition.py
 
 
-All charts will be saved inside the outputs/ folder automatically.
+All generated charts will appear in the outputs/ folder.
 
-🏁 Conclusion
+📊 Insights Generated
 
-This project demonstrates how data visualization can help uncover useful nutritional insights.
-Understanding food composition can guide healthier choices and highlight nutrient-rich foods.
+✔ High-calorie foods include: Almonds, Walnuts, Bread, Paneer
+✔ High-protein foods: Chicken, Eggs, Almonds
+✔ Carbohydrate-rich foods: Rice, Pasta, Bread
+✔ Fat content strongly influences calorie levels
+✔ Nutrient distributions show wide variation in carbs & fats
 
-If you found this useful, ⭐ please star the repository!
+🚀 Possible Future Enhancements
+
+Convert project into a Streamlit interactive dashboard
+
+Add searchable food filters
+
+Add BMI-based food recommendations
+
+Add dark/light mode switch
+
+👩‍💻 Author
+
+Vaibhavi Andhale
+Data Visualization • Python Developer
+Anudip Foundation
+
+📄 License
+
+Open-source for educational and research use.
