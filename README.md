@@ -1,12 +1,10 @@
 🍎⚡ NutriScope 360° – Food Nutrition Intelligence Dashboard
 Dark Theme • Data Visualization Edition • Professional Documentation
 🌑 Overview
-
 NutriScope 360° is a modern data visualization project built to analyze the nutritional composition of 50+ food items.
 Designed with a clean dark-themed analytics layout, it converts raw nutritional data into meaningful visual insights.
 
 Ideal for:
-
 ✔ Students & educators
 ✔ Data analysts
 ✔ Nutritionists
@@ -16,39 +14,23 @@ Ideal for:
 This dashboard helps users understand calories, proteins, carbohydrates, fats, and their relationships across different foods.
 
 ✨ Key Features (Dark Mode Optimized)
+
 📌 Core Visualizations
-
-📈 Calories Trend Line
-
-🥩 Top Protein-Rich Foods
-
-🍞 Highest Carbohydrate Foods
-
-🍩 Top Fat-Dense Foods
-
-🍽 Macronutrient Donut Charts
-
-🔥 Protein vs Calories Scatter Plot (Fat-Colored)
-
-📊 Multi-Line Nutrient Comparison
-
-📦 Boxplots for Nutrient Distributions
-
+  📈 Calories Trend Line
+  🥩 Top Protein-Rich Foods
+  🍞 Highest Carbohydrate Foods
+  🍩 Top Fat-Dense Foods
+  🍽 Macronutrient Donut Charts
+  🔥 Protein vs Calories Scatter Plot (Fat-Colored)
+  📊 Multi-Line Nutrient Comparison
+  📦 Boxplots for Nutrient Distributions
+  
 🧠 Insight Extraction
+  🔍 Identify high vs low nutrient foods
+  📏 Compare macronutrient variations
+  📡 Observe nutrient distribution patterns
+  🔗 Understand relationships (e.g., Fat ↔ Calories)
 
-🔍 Identify high vs low nutrient foods
-
-📏 Compare macronutrient variations
-
-📡 Observe nutrient distribution patterns
-
-🔗 Understand relationships (e.g., Fat ↔ Calories)
-
-🎥 Demo Preview
-
-(Optional GIF or screenshots)
-
-[ NutriScope Dashboard Preview – Coming Soon ]
 
 🧱 Project Structure
 food-nutrition-visualization/
@@ -66,11 +48,13 @@ food-nutrition-visualization/
 │     ├── 08_boxplots.png
 
 🛠 Tech Stack
-Technology	Purpose
-Python	Main programming language
-Pandas	Data cleaning & manipulation
-Matplotlib	Graph creation & visualization
-NumPy	Numerical operations
+| Technology     | Purpose                        |
+| -------------- | ------------------------------ |
+| **Python**     | Main programming language      |
+| **Pandas**     | Data cleaning & manipulation   |
+| **Matplotlib** | Graph creation & visualization |
+| **NumPy**      | Numerical operations           |
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/food-nutrition-visualization.git
@@ -81,8 +65,6 @@ pip install pandas matplotlib numpy
 
 3️⃣ Run the script
 python food_nutrition.py
-
-
 All generated charts will appear in the outputs/ folder.
 
 📊 Insights Generated
@@ -94,21 +76,15 @@ All generated charts will appear in the outputs/ folder.
 ✔ Nutrient distributions show wide variation in carbs & fats
 
 🚀 Possible Future Enhancements
-
 Convert project into a Streamlit interactive dashboard
-
 Add searchable food filters
-
 Add BMI-based food recommendations
-
 Add dark/light mode switch
 
 👩‍💻 Author
-
 Vaibhavi Andhale
 Data Visualization • Python Developer
 Anudip Foundation
 
 📄 License
-
 Open-source for educational and research use.
