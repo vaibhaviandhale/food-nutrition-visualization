@@ -7,7 +7,7 @@ import numpy as np
 # -----------------------------
 # Config
 # -----------------------------
-st.set_page_config(page_title="NutriScope 360°", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="NutriScope", layout="wide", initial_sidebar_state="expanded")
 DATA_PATH = "food_nutrition.csv"  # keep your CSV file here
 
 # -----------------------------
@@ -427,3 +427,4 @@ st.subheader("Filtered Data")
 st.dataframe(df_filtered.reset_index(drop=True), height=320)
 st.markdown("---")
 st.caption("NutriScope 360° — built with Streamlit & Plotly")
+
