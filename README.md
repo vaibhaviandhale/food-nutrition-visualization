@@ -1,4 +1,4 @@
-#🍎⚡ NutriScope 360° – Food Nutrition Intelligence Dashboard  
+##🍎⚡ NutriScope 360° – Food Nutrition Intelligence Dashboard  
 Dark Theme • Data Visualization Edition • Professional Documentation  
 
 ## 🌑 Overview  
