@@ -1,4 +1,4 @@
-# 🍎⚡NutriScope – Food Nutrition Intelligence Dashboard
+# 🍎⚡NutriScope 360° – Food Nutrition Intelligence Dashboard
 Streamlit Interactive Edition • Professional Documentation
 
 ---
@@ -82,7 +82,7 @@ food-nutrition-visualization/
 <div align="center">
 
 ## 🎥 Interactive Demo
-**Watch Health 360° in Action**
+**Watch NutriScope 360° in Action**
 
 ![demo](https://github.com/user-attachments/assets/fdb780dc-1f38-4e8c-a567-a4f7ec353ada)
 <br>
