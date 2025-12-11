@@ -1,43 +1,43 @@
-# NutriScope 360° – Food Nutrition Intelligence Dashboard
+# 🍎⚡NutriScope 360° – Food Nutrition Intelligence Dashboard
 Dark Mode • Streamlit Interactive Edition • Professional Documentation
 
 ---
 
-## Overview
+## 🌑Overview
 NutriScope 360° is a modern nutrition analytics dashboard that transforms raw food nutrient data into interactive insights.  
 Built using Streamlit and optimized for a clean dark-themed interface, it helps users understand macronutrient variations, calorie distribution, and overall nutritional patterns.
 
 This project is suitable for:
-- Students
-- Educators
-- Data analysts
-- Nutritionists
-- Fitness professionals
+- 🎓 Students
+- 📊 Data analysts
+- 🥗 Nutritionists
+- 🏋️ Fitness professionals
+- 🍱 Anyone exploring food composition
 
 ---
 
-## Key Features
+## ✨Key Features
 
-Core Visualizations:
-- Calories Trend Line
-- Top Protein-Rich Foods
-- Highest Carbohydrate Foods
-- Top Fat-Dense Foods
-- Macronutrient Donut Chart
-- Protein vs Calories Scatter Plot (Color-coded by Fat)
-- Multi-Nutrient Line Comparison
-- Nutrient Distribution Boxplots
+📊 Core Visualizations:
+- 📈 Calories Trend Line
+- 🥩 Top Protein-Rich Foods
+- 🍚 Highest Carbohydrate Foods
+- 🧈 Top Fat-Dense Foods
+- 🍩 Macronutrient Donut Chart
+- 🎯 Protein vs Calories Scatter Plot (Color-coded by Fat)
+- 📉 Multi-Nutrient Line Comparison
+- 📦 Nutrient Distribution Boxplots
 
-Intelligent Features:
-- BMI Calculator (on dashboard)
-- Meal Recommendations
-- Food Search and Filters
-- Light/Dark Mode Toggle
-- Dashboard PDF Export (outputs.pdf)
+🤖 Intelligent Features:
+- 🧮 BMI Calculator (on dashboard)
+- 🍽 Meal Recommendations
+- 🔍 Food Search and Filters
+- ⚙️ Light/Dark Mode Toggle
+- 📄 Dashboard PDF Export (outputs.pdf)
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 food-nutrition-visualization/
 |
@@ -50,17 +50,20 @@ food-nutrition-visualization/
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- Plotly
-- NumPy
+| Technology    | Purpose                         |
+| ------------- | ------------------------------- |
+| **Python**    | Base programming language       |
+| **Streamlit** | Interactive dashboard framework |
+| **Pandas**    | Data processing & manipulation  |
+| **Plotly**    | Interactive charting            |
+| **NumPy**     | Numerical computations          |
+
 
 ---
 
-## Installation and Setup
+## ⚙ Installation and Setup
 
 1. Clone the repository:
    git clone https://github.com/vaibhaviandhale/food-nutrition-visualization.git
@@ -74,7 +77,7 @@ food-nutrition-visualization/
 
 ---
 
-## Dashboard Preview
+## 📸 Dashboard Preview
 
 Download the full dashboard PDF here:
 outputs.pdf
@@ -83,17 +86,17 @@ outputs.pdf
 
 ---
 
-## Insights Generated
+## 🔍 Insights Generated
 
-- High-calorie foods include almonds, walnuts, bread, and paneer.
-- High-protein foods include chicken, eggs, and almonds.
-- Carbohydrate-rich foods include rice, pasta, and bread.
-- Fat content shows a strong correlation with total calories.
-- Nutrient variation is highest in carbohydrates and fats.
+- 🔥 High-calorie foods include almonds, walnuts, bread, and paneer.
+- 🥩 High-protein foods include chicken, eggs, and almonds.
+- 🍝 Carbohydrate-rich foods include rice, pasta, and bread.
+- 🧈 Fat content shows a strong correlation with total calories.
+- 📊 Nutrient variation is highest in carbohydrates and fats.
 
 ---
 
-## Future Enhancements
+## 🚀 Future Enhancements
 
 - Add advanced food recommendation model.
 - Add support for user-uploaded custom food datasets.
@@ -102,12 +105,12 @@ outputs.pdf
 
 ---
 
-## Author
+## 👩‍💻 Author
 Vaibhavi Andhale  
 Python Developer • Data Visualization  
 Anudip Foundation
 
 ---
 
-## License
+## 📄 License
 Open-source for educational and research use.
